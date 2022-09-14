@@ -2,7 +2,7 @@
  Olá, Sou a Patricia 👋
 
 
-- 🔭 Me desafiando na transição de carreira, vindo da área comercial para um universo que para mim é totalmente novo e desafiador, aprendendo algo novo a cada segundo...
+- 🔭 Me desafiando na transição de carreira, desbravando um universo que para mim é totalmente novo e desafiador, aprendendo algo novo a cada segundo...
 - 🌱 Estutante de Html5, CSS e Javascript no curso Explorer da Rocketseat! 
 
 
